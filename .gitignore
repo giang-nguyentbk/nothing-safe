@@ -1,0 +1,5 @@
+!*.md
+!*.c
+!*.cc
+!*.h
+!Makefile
