@@ -1,0 +1,3 @@
+[submodule "attacker/symbol-hooker"]
+	path = attacker/symbol-hooker
+	url = https://github.com/giang-nguyentbk/symbol-hooker.git
